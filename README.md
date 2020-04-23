@@ -1,2 +1,2 @@
 # tohmeegGuessGame
-a code to a number guessing game
+A number guessing game program
